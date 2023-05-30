@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/temperature/static/css/main.a7d54a95.css",
-    "main.js": "/temperature/static/js/main.66c2b914.js",
+    "main.css": "/temperature/static/css/main.cd85774a.css",
+    "main.js": "/temperature/static/js/main.b3c3f3c0.js",
     "index.html": "/temperature/index.html",
-    "main.a7d54a95.css.map": "/temperature/static/css/main.a7d54a95.css.map",
-    "main.66c2b914.js.map": "/temperature/static/js/main.66c2b914.js.map"
+    "main.cd85774a.css.map": "/temperature/static/css/main.cd85774a.css.map",
+    "main.b3c3f3c0.js.map": "/temperature/static/js/main.b3c3f3c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7d54a95.css",
-    "static/js/main.66c2b914.js"
+    "static/css/main.cd85774a.css",
+    "static/js/main.b3c3f3c0.js"
   ]
 }
