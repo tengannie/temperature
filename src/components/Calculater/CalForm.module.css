@@ -1,0 +1,25 @@
+.new-temperature {
+    background-color: #362963;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    color: white;
+  }
+  
+  .new-temperature input {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    
+  }
+
+
+
+  .new-temperature label {
+    font-size: 3rem;
+  }

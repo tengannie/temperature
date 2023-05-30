@@ -1,0 +1,14 @@
+.formula {
+    list-style: none;
+    padding: 0;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    align-items:right;
+  }
+
+  .formula label {
+    background-color: rgb(252, 237, 162);
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+  }
